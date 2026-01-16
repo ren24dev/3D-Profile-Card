@@ -1,7 +1,7 @@
 # 3D Profile Card
 
 This is a **3D profile card** that features smooth 3D animations when hovered over.  
-The card flips or rotates, creating a visually appealing interactive effect.
+The card slightly move, creating a visually appealing interactive effect.
 
 ## Features
 - Hover animation that transforms the card into a 3D effect
